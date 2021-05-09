@@ -62,6 +62,7 @@
         <!-- The characters to display in the popup keyboard -->
         <attr name="popupCharacters" format="string" />
         <!-- Key edge flags -->
+
         <attr name="keyEdgeFlags">
             <!-- Key is anchored to the left of the keyboard -->
             <flag name="left" value="1" />

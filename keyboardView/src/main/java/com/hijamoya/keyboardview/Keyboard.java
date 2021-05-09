@@ -447,6 +447,7 @@ public class Keyboard {
             }
 
             iconPreview = a.getDrawable(R.styleable.Keyboard_Key_iconPreview);
+
             if (iconPreview != null) {
                 iconPreview.setBounds(0, 0, iconPreview.getIntrinsicWidth(),
                         iconPreview.getIntrinsicHeight());
