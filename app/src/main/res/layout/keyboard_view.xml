@@ -7,8 +7,8 @@
         android:keyBackground="@drawable/keyboard_selector"
         android:keyTextColor="@color/black"
         android:shadowColor="@android:color/transparent"
-        android:paddingTop="20px"
-        android:paddingBottom="20px"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
         android:layout_alignParentBottom="true"
         android:background="@color/colorPrimary">>
 
